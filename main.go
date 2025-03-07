@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/cachesdev/pokedexcli/pkg/app"
+	"github.com/cachesdev/pokeapi-repl/pkg/app"
 )
 
 func main() {

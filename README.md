@@ -2,9 +2,11 @@
 
 I put this together in a couple of hours, following a boot.dev course. the code is pretty ugly and untested, but it works.
 
+yes, I installed testify for a single test. I couldn't be bothered.
+
 # Running the Program
 ```sh
-$ go run https://github.com/cachesdev/pokeapi-repl
+go run github.com/cachesdev/pokeapi-repl@latest
 ```
 
 # Usage

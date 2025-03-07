@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/cachesdev/pokedexcli/pkg/cli"
+	"github.com/cachesdev/pokeapi-repl/pkg/cli"
 )
 
 func (app *Application) register() {

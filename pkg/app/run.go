@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/cachesdev/pokedexcli/pkg/cache"
-	"github.com/cachesdev/pokedexcli/pkg/cli"
-	"github.com/cachesdev/pokedexcli/pkg/commands"
+	"github.com/cachesdev/pokeapi-repl/pkg/cache"
+	"github.com/cachesdev/pokeapi-repl/pkg/cli"
+	"github.com/cachesdev/pokeapi-repl/pkg/commands"
 )
 
 func Run() error {

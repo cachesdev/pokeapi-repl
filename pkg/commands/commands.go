@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/cachesdev/pokedexcli/pkg/cache"
-	"github.com/cachesdev/pokedexcli/pkg/cli"
+	"github.com/cachesdev/pokeapi-repl/pkg/cache"
+	"github.com/cachesdev/pokeapi-repl/pkg/cli"
 )
 
 type Commands struct {
