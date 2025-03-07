@@ -6,7 +6,7 @@ yes, I installed testify for a single test. I couldn't be bothered.
 
 # Running the Program
 ```sh
-go run github.com/cachesdev/pokeapi-repl@latest
+go run github.com/cachesdev/pokeapi-repl
 ```
 
 # Usage
